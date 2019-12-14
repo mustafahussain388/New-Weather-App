@@ -4,6 +4,15 @@
 
 We have made a beautiful, dark-mode enabled weather app. We'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
+## Build And Run Instructions
+
+Just download source code and unzip the downloaded folder and opne project in Xcode.
+
+## Using Terminal:
+
+git clone https://github.com/mustafahussain388/New-Weather-App
+
+
 ## What we have Done
 
 * Create a dark-mode enabled app. 
