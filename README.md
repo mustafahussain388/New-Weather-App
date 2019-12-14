@@ -6,7 +6,7 @@ We have made a beautiful, dark-mode enabled weather app. We'll be able to check 
 
 ## Build And Run Instructions
 
-Just download source code and unzip the downloaded folder and opne project in Xcode.
+Just download source code and unzip the downloaded folder and open project in Xcode.
 
 ## Using Terminal:
 
